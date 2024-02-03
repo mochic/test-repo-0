@@ -1,0 +1,1 @@
+--8<-- "https://raw.githubusercontent.com//test-repo-0/main/CONTRIBUTING.md"
